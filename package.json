@@ -1,0 +1,18 @@
+{
+  "name": "vuecli-publicpath-webpack-plugin",
+  "version": "0.0.1",
+  "description": "set webpack publicPath",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "vue-cli"
+  ],
+  "author": "qiang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iDestin/vuecli-publicpath-webpack-plugin.git"
+  },
+  "homepage": "https://github.com/iDestin/vuecli-publicpath-webpack-plugin"
+}
