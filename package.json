@@ -1,7 +1,7 @@
 {
   "name": "vuecli-publicpath-webpack-plugin",
-  "version": "0.0.1",
-  "description": "set webpack publicPath",
+  "version": "0.0.2",
+  "description": "Use it to set the publicpath of webpack in Vuecli",
   "main": "index.js",
   "keywords": [
     "webpack",
