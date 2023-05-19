@@ -8,6 +8,9 @@
     "plugin",
     "vue-cli"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "qiang",
   "license": "MIT",
   "repository": {
